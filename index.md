@@ -1,8 +1,5 @@
-# panfeng_studio
-## 数据挖掘方向推荐
-
 ## **职业方向**
-
+***
 ### 1. 数据分析师
 
 > 要求
@@ -21,7 +18,7 @@
 * 《Clementine数据挖掘方法及应用 》
 * 《Excel 2007 VBA参考大全》
 * 《IBM SPSS Statistics 19 Statistical Procedures Companion》等。
-
+***
 ### 2. 数据挖掘工程师
 
 > 要求
@@ -42,7 +39,7 @@
 * 《thinking in Java》
 * 《Thinking in C++》
 * 《数据结构》等。
- 
+***
 ### 3.科学研究方向
 
 > 要求
