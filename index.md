@@ -6,7 +6,7 @@
 
 > 要求
 
-* 深厚的数理统计基础，但是对程序开发能力不做要求；
+* `深厚的数理统计基础，但是对程序开发能力不做要求；`
 * 需要熟练使用主流的数据挖掘（或统计分析）工具如Business Analytics and Business Intelligence Software（SAS）、SPSS、EXCEL等；
 * 需要对与所在行业有关的一切核心数据有深入的理解，以及一定的数据敏感性培养；
 
