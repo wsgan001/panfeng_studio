@@ -55,7 +55,7 @@
 * 《统计学习方法》
 * 《数据挖掘实用机器学习技术》
 * 《R语言实践》
-* (英文素质是科研人才必备的)
+* *(英文素质是科研人才必备的)
 * 《Machine Learning: A Probabilistic Perspective》
 * 《Scaling up Machine Learning : Parallel and Distributed Approaches》
 * 《Data Mining Using SAS Enterprise Miner : A Case Study Approach》
